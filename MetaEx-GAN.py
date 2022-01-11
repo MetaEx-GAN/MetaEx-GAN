@@ -3,7 +3,6 @@
 """
 Created on Thu Oct 12 12:04:31 2017
 
-@author: gama
 """
 import os
 os.environ['CUDA_VISIBLE_DEVICES']='0'
